@@ -1,0 +1,2 @@
+The project to supply leftover food to poor people is an initiative that aims to tackle two major issues: food waste and hunger. The concept behind this project is simple yet impactful—collect surplus food from restaurants, grocery stores, catering services, and other food providers, and distribute it to underprivileged and impoverished communities through a well-coordinated system.
+# Salesforce-Project
